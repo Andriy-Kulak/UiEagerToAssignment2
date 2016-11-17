@@ -1,6 +1,6 @@
 <h3><b>UI Material VERSION  - Eager.to Assignment</b></h3>
 <br/>
-Main Technologies Used: React, Redux, React-Bootstrap and Node
+Main Technologies Used: React, Redux, UI-material (react version), React-Bootstrap-Table and Node
 <br/>
 I took the first 100 entries from the 'submissionanalytics' table within 'eagertobp' database for the purpose of this prototype
 <br/>
